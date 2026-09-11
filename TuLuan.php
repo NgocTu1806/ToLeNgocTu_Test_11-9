@@ -49,7 +49,7 @@
             echo "<br>"; 
         } 
     } 
-    inHinhChuNhat(6, 3);
+    inHinhChuNhat(5, 3);
     ?>
 
 
